@@ -1,2 +1,3 @@
 # ECE9039B_finalProject_G12
 Repository for Final project submission
+Using Kaggle's competitive data, which consists of 10,000 unique tweets,  we have focused on designing and developing a machine learning model that can analyze tweets and classify whether the tweet is about real disaster or whether it's not. First, we have performed an exploratory data analysis to visualize the dataset, then run to perform text preprocessing and remove irrelevant characters. Most disasters have been found to be related to natural disasters and man-made disaster, but non-disaster people are focusing on slang and YouTube videos. Implemented 5 machine learning models.
